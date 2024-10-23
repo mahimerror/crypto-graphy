@@ -8,7 +8,6 @@ import './index.css'
 import Root from './components/Root';
 import Home from './components/Home';
 import Des from './components/Des';
-import Test from './components/test';
 import Des3 from './components/Des3';
 import Aes from './components/Aes';
 import BlowFish from './components/BlowFish';

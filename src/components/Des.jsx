@@ -88,7 +88,7 @@ const Des = () => {
                     Why DES is No Longer Secure
                 </h2>
                 <p className="text-lg mb-4">
-                    While DES was revolutionary at the time of its inception, it became vulnerable to attacks as computing power grew. A key reason for this vulnerability is the <strong>56-bit key length</strong>, which is too short by modern standards. With today's computational capabilities, it’s possible to <strong>brute-force</strong> DES, testing all possible key combinations to decrypt the data.
+                    While DES was revolutionary at the time of its inception, it became vulnerable to attacks as computing power grew. A key reason for this vulnerability is the <strong>56-bit key length</strong>, which is too short by modern standards. With today's computational capabilities, its possible to <strong>brute-force</strong> DES, testing all possible key combinations to decrypt the data.
                 </p>
 
                 <h2 className="text-2xl font-semibold text-blue-500 mt-8 mb-4">
