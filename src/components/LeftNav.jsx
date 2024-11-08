@@ -13,7 +13,7 @@ const LeftNav = () => {
 
     return (
         <div>
-            <div className="overflow-auto h-[90vh] min-w-80 max-w-80">
+            <div className="md:overflow-auto md:h-[90vh] min-w-80 md:max-w-80">
                 <ul>
                     <li className="font-bold p-6">
                         <button className="flex items-center justify-between gap-5" onClick={() => setIsOpenSymmetric(!isOpenSymmetric)}>
