@@ -29,31 +29,31 @@ const LeftNav = () => {
                             <div className="">
                                 <ul className="p-4 pb-0 space-y-2">
                                     <li className="" onClick="">
-                                        <Link to={"/tc"}><button className="text-left">TC-Crypto Chiper</button></Link><hr className="my-2" />
+                                        <Link to={"/tc"}><button className="text-left hover:text-[#2563EB]">TC-Crypto Chiper</button></Link><hr className="my-2" />
                                     </li>
 
                                     <li className="" onClick="">
-                                        <Link to={"/des"}><button className="text-left">Data Encryption Standard (DES)</button></Link><hr className="my-2" />
+                                        <Link to={"/des"}><button className="text-left hover:text-[#2563EB]">Data Encryption Standard (DES)</button></Link><hr className="my-2" />
                                     </li>
 
                                     <li className="" onClick="">
-                                        <Link to={"/des3"}><button className="text-left">Triple DES (3DES)</button></Link><hr className="my-2" />
+                                        <Link to={"/des3"}><button className="text-left hover:text-[#2563EB]">Triple DES (3DES)</button></Link><hr className="my-2" />
                                     </li>
 
                                     <li className="" onClick="">
-                                        <Link to={"/aes"}><button className="text-left">Advanced Encryption Standard (AES)</button></Link><hr className="my-2" />
+                                        <Link to={"/aes"}><button className="text-left hover:text-[#2563EB]">Advanced Encryption Standard (AES)</button></Link><hr className="my-2" />
                                     </li>
 
                                     <li className="" onClick="">
-                                        <Link to={"/blow-fish"}><button className="text-left">Blowfish</button></Link><hr className="my-2" />
+                                        <Link to={"/blow-fish"}><button className="text-left hover:text-[#2563EB]">Blowfish</button></Link><hr className="my-2" />
                                     </li>
 
                                     <li className="" onClick="">
-                                        <Link to={"/tow-fish"}><button className="text-left">Twofish</button></Link><hr className="my-2" />
+                                        <Link to={"/tow-fish"}><button className="text-left hover:text-[#2563EB]">Twofish</button></Link><hr className="my-2" />
                                     </li>
 
                                     <li className="" onClick="">
-                                        <Link to={"/rc4"}><button className="text-left">Rivest Cipher 4 (RC4)</button></Link>
+                                        <Link to={"/rc4"}><button className="text-left hover:text-[#2563EB]">Rivest Cipher 4 (RC4)</button></Link>
                                     </li>
                                 </ul>
                             </div>
@@ -74,20 +74,20 @@ const LeftNav = () => {
 
                                 <ul className="p-6 space-y-2">
                                     <li className="" onClick="">
-                                        <Link to={"/rsa"}><button className="text-left">RSA (Rivest-Shamir-Adleman)</button></Link><hr className="my-2" />
+                                        <Link to={"/rsa"}><button className="text-left hover:text-[#2563EB]">RSA (Rivest-Shamir-Adleman)</button></Link><hr className="my-2" />
                                     </li>
 
                                     
                                     <li className="" onClick="">
-                                        <Link to={"/dsa"}><button className="text-left">Digital Signature Algorithm (DSA)</button></Link><hr className="my-2" />
+                                        <Link to={"/dsa"}><button className="text-left hover:text-[#2563EB]">Digital Signature Algorithm (DSA)</button></Link><hr className="my-2" />
                                     </li>
 
                                     <li className="" onClick="">
-                                        <Link to={"/ecc"}><button className="text-left">Elliptic Curve Cryptography (ECC)</button></Link><hr className="my-2" />
+                                        <Link to={"/ecc"}><button className="text-left hover:text-[#2563EB]">Elliptic Curve Cryptography (ECC)</button></Link><hr className="my-2" />
                                     </li>
 
                                     <li className="" onClick="">
-                                        <Link to={"/dh"}><button className="text-left">Diffie-Hellman (DH)</button></Link>
+                                        <Link to={"/dh"}><button className="text-left hover:text-[#2563EB]">Diffie-Hellman (DH)</button></Link>
                                     </li>
                                 </ul>
                             </div>
@@ -107,23 +107,23 @@ const LeftNav = () => {
                             <div className="">
                                 <ul className="p-6 space-y-2">
                                     <li className="" onClick="">
-                                        <Link to={"/md5"}><button className="text-left">MD5 (Message Digest 5)</button></Link><hr className="my-2" />
+                                        <Link to={"/md5"}><button className="text-left hover:text-[#2563EB]">MD5 (Message Digest 5)</button></Link><hr className="my-2" />
                                     </li>
 
                                     <li className="" onClick="">
-                                        <Link to={"/sh1"}><button className="text-left">SHA-1 (Secure Hash Algorithm 1)</button></Link><hr className="my-2" />
+                                        <Link to={"/sh1"}><button className="text-left hover:text-[#2563EB]">SHA-1 (Secure Hash Algorithm 1)</button></Link><hr className="my-2" />
                                     </li>
 
                                     <li className="" onClick="">
-                                        <Link to={"/sh2"}><button className="text-left">SHA-2 (Secure Hash Algorithm 2)</button></Link><hr className="my-2" />
+                                        <Link to={"/sh2"}><button className="text-left hover:text-[#2563EB]">SHA-2 (Secure Hash Algorithm 2)</button></Link><hr className="my-2" />
                                     </li>
 
                                     <li className="" onClick="">
-                                        <Link to={"/sh3"}><button className="text-left">SHA-3 (Secure Hash Algorithm 3)</button></Link><hr className="my-2" />
+                                        <Link to={"/sh3"}><button className="text-left hover:text-[#2563EB]">SHA-3 (Secure Hash Algorithm 3)</button></Link><hr className="my-2" />
                                     </li>
 
                                     <li className="" onClick="">
-                                        <Link to={"/ripe"}><button className="text-left">RIPEMD</button></Link>
+                                        <Link to={"/ripe"}><button className="text-left hover:text-[#2563EB]">RIPEMD</button></Link>
                                     </li>
                                 </ul>
                             </div>
@@ -143,11 +143,11 @@ const LeftNav = () => {
                             <div className="">
                                 <ul className="p-6 space-y-2">
                                     <li className="" onClick="">
-                                        <Link to={"/dh"}><button className="text-left">Diffie-Hellman (DH)</button></Link><hr className="my-2" />
+                                        <Link to={"/dh"}><button className="text-left hover:text-[#2563EB]">Diffie-Hellman (DH)</button></Link><hr className="my-2" />
                                     </li>
 
                                     <li className="" onClick="">
-                                        <Link to={"/des"}><button className="text-left">Elliptic Curve Diffie-Hellman (ECDH)</button></Link>
+                                        <Link to={"/des"}><button className="text-left hover:text-[#2563EB]">Elliptic Curve Diffie-Hellman (ECDH)</button></Link>
                                     </li>
                                 </ul>
                             </div>
@@ -168,7 +168,7 @@ const LeftNav = () => {
                                 <ul className="p-6 space-y-2">
 
                                     <li className="" onClick="">
-                                        <Link to={"/des"}><button className="text-left">ECDSA (Elliptic Curve Digital Signature Algorithm)</button></Link>
+                                        <Link to={"/des"}><button className="text-left hover:text-[#2563EB]">ECDSA (Elliptic Curve Digital Signature Algorithm)</button></Link>
                                     </li>
                                 </ul>
                             </div>
@@ -188,11 +188,11 @@ const LeftNav = () => {
                             <div className="">
                                 <ul className="p-6 space-y-2">
                                     <li className="" onClick="">
-                                        <Link to={"/des"}><button className="text-left">Pretty Good Privacy (PGP)</button></Link><hr className="my-2" />
+                                        <Link to={"/des"}><button className="text-left hover:text-[#2563EB]">Pretty Good Privacy (PGP)</button></Link><hr className="my-2" />
                                     </li>
 
                                     <li className="" onClick="">
-                                        <Link to={"/des"}><button className="text-left">SSL/TLS (Secure Sockets Layer / Transport Layer Security)</button></Link>
+                                        <Link to={"/des"}><button className="text-left hover:text-[#2563EB]">SSL/TLS (Secure Sockets Layer / Transport Layer Security)</button></Link>
                                     </li>
                                 </ul>
                             </div>
@@ -212,15 +212,15 @@ const LeftNav = () => {
                             <div className="">
                                 <ul className="p-6 space-y-2">
                                     <li className="" onClick="">
-                                        <Link to={"/des"}><button className="text-left">Lattice-based Cryptography</button></Link><hr className="my-2" />
+                                        <Link to={"/des"}><button className="text-left hover:text-[#2563EB]">Lattice-based Cryptography</button></Link><hr className="my-2" />
                                     </li>
 
                                     <li className="" onClick="">
-                                        <Link to={"/des"}><button className="text-left">Multivariate Cryptography</button></Link><hr className="my-2" />
+                                        <Link to={"/des"}><button className="text-left hover:text-[#2563EB]">Multivariate Cryptography</button></Link><hr className="my-2" />
                                     </li>
 
                                     <li className="" onClick="">
-                                        <Link to={"/des"}><button className="text-left">Code-based Cryptography</button></Link>
+                                        <Link to={"/des"}><button className="text-left hover:text-[#2563EB]">Code-based Cryptography</button></Link>
                                     </li>
                                 </ul>
                             </div>
